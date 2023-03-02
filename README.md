@@ -24,9 +24,26 @@ and
 Below, you'll find an overview of a future study that could be used to compare my client's car manufactoring operation to that of potential competitor:
 
 ### Metrics of Interest
+For this study, I was curious about the how my client could best promote their brand as an affordable performance vehicle manufacturer. To do this, I chose to focus on the relationship between vehicle performance (horsepower and quarter-mile time), fuel efficiency (highway mpg), and vehicle sticker price ($) as they relate to car sales (units sold per year). I would conduct this study on multiple vehicle models across my client's and competitors' brands to determine which performance and affordability factors my client should focus on during the production of different vehicle types.  
+
+Metrics:
+- retail price ($)
+- vehicle horsepower
+- quarter mile time (seconds)
+- highway miles per gallon (mpg)
+- city miles per gallon (mpg)
 
 ### Null and Alternative Hypotheses
+#### H0 : The slope of the linear model is zero, or m = 0, meaning that our metrics do not effectively predict vehicle sales.  
+#### Ha : The slope of the linear model is not zero, or m ≠ 0, meaning some combination of our metrics are effective at predicting vehicle sales.
 
 ### Statistical Tests I Would Utilize
+I would utilize multiple linear regression to determine which performance and afforability factors serve as the strongest predictors for vehicle sales. 
 
 ### Data Necessary for the Study
+we would require the following data associated with each car model and make we chose to study:
+- retail price
+- vehicle horsepower
+- quarter mile time (seconds)
+- highway miles per gallon (mpg)
+- city miles per gallon (mpg)
