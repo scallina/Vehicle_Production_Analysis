@@ -1,5 +1,8 @@
 # Vehicle_Production_Analysis
 
+## Summary
+In this analysis, I utilized R to run various statistical tests on vehicle manufactoring data to predict factors such as fuel efficiency and safety against competitors. Additionally, I used my findings to suggest research hypotheses for future studies. 
+
 ## Linear Regression to Predict MPG
 
 - According to our linear regression summary, vehicle length, ground clearance, and vehicle weight provide a non-random amount of variance to the mpg values in the dataset. In future tests, spoiler angle and AWD may not need to be considered in the regression analysis. 
